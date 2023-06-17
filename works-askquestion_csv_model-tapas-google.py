@@ -27,6 +27,9 @@ print("Delhi folks ->" + tqa(table=table, query = query)['answer'])
 query = "what are phone numbers of Shalini and praveek?"
 print("ph numbers ->" + tqa(table=table, query = query)['answer'])
 
+
+# Random notes below. Please ignore
+#################################
 # below date based questions dont work
 #query = "who have birth dates in month of 06?" # June does not work
 #print("June folks ->" + tqa(table=table, query = query)['answer'])
