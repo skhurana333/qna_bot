@@ -1,0 +1,4 @@
+id - 1,name - sandeep khurana,city - Bangalore,date of birth - 31-10-2000,salary - 100000
+id - 2,name - praveek sahani,city - Delhi,date of birth - 15-09-2002,salary - 150000
+id - 3,name - shweta kumari,city - Pune,date of birth - 10-08-2001,salary - 200000
+id - 4,name - avinash saini,city - Chennai,date of birth - 09-19-1999,salary - 130000

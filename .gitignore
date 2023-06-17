@@ -1,0 +1,5 @@
+.idea/
+.chroma/
+data/venv_csv/
+venv/
+.DS_Store
